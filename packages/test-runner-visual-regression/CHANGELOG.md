@@ -1,5 +1,12 @@
 # @web/test-runner-visual-regression
 
+## 0.6.5
+
+### Patch Changes
+
+- Updated dependencies [36a06160]
+  - @web/test-runner-commands@0.6.0
+
 ## 0.6.4
 
 ### Patch Changes
